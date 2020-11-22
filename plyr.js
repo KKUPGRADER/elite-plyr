@@ -1,4 +1,4 @@
-(function () {
+       (function () {
   "use strict";
   var jQueryPlugin = (window.jQueryPlugin = function (ident, func) {
     return function (arg) {
