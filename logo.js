@@ -2,7 +2,7 @@ import videojs from 'video.js';
 
 // Default options for the plugin.
 const defaults = {
-  image: "/logo-example.png",
+  image: "https://raw.githubusercontent.com/tapioca24/videojs-logo/HEAD/img/videojs-logo-sample.png",
   title: "Logo Title",
   destination: "http://www.google.com",
   destinationTarget: "_blank"
